@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockBanPlugin">
+    <output-path>$USER_HOME$/OneDrive/Documents/servers/Minecraft/Tekkit Legends Thermos/plugins</output-path>
+    <root id="archive" name="BlockBanPlugin.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="BlockBanPlugin" />
+    </root>
+  </artifact>
+</component>

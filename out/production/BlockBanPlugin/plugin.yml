@@ -1,0 +1,8 @@
+name: BlockBanPlugin
+description: Ban certain blocks from being crafted, placed, destroyed, picked up, etc
+main: bukkit.entry.Main
+version: 0.1.0
+commands:
+  bm:
+    description: Commands to control the Block/Item Ban plugin.
+    usage: /bm help
