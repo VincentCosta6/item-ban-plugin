@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlockBanPlugin.iml" filepath="$PROJECT_DIR$/BlockBanPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-ban-plugin.iml" filepath="$PROJECT_DIR$/item-ban-plugin.iml" />
     </modules>
   </component>
 </project>
